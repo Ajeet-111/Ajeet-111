@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Ajeet-111
-- 👀 I’m interested in AI and Webdev
-- 🌱 I’m currently learning backend webdev.
-- 📫 if you want to connect, here's my email id:
-- ajeetsingh97835@gmail.com
-- 😄 Pronouns: He/Him
+- he/him
+- hi, i'm ajeet.
+- i'm interesting in ai and web dev.
+- if you want to connect, mail me at - ajeetsingh97835@gmail.com
 
 
 <!---
