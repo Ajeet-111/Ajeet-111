@@ -1,4 +1,3 @@
-- he/him
 - hi, i'm ajeet.
 - i'm interesting in ai and web dev.
 - if you want to connect, mail me at - ajeetsingh97835@gmail.com
