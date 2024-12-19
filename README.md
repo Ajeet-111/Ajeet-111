@@ -1,5 +1,5 @@
 - hi, i'm ajeet.
-- i'm have a interest in AI-ml and web dev related stuff.
+- i'm interested in AI-ml and web dev related stuff.
 - currently learning data structures and algorithms.
 - i like to code in java, python and javascript.(basics)
 - if you want to connect, mail me at - ajeetsingh97835@gmail.com
